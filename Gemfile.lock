@@ -115,7 +115,7 @@ DEPENDENCIES
   middleman (>= 4.0.0)
   middleman-autoprefixer (~> 2.7)
   tzinfo-data
-  wdm (>= 0.1.1)
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.16.0
