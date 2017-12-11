@@ -3,7 +3,7 @@
   price: 75.99
   max_quantity: 10
   path: product/Strawberry-blanket
-  image: https://snipcart.com/media/10107/chocolate-chips-cookies.png
+  image: 
   description: Uncontested, delightful classic.
 
 - name: Sunny Side Up blanket
