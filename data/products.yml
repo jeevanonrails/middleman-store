@@ -1,0 +1,29 @@
+- name: Strawberry Blanket
+  id: 101
+  price: 75.99
+  max_quantity: 10
+  path: product/Strawberry-blanket
+  image: https://snipcart.com/media/10107/chocolate-chips-cookies.png
+  description: Uncontested, delightful classic.
+
+- name: Sunny Side Up blanket
+  id: 102
+  price: 75.99
+  max_quantity: 20
+  path: product/sunny-side-up-blanket
+  data-item-image: http://localhost:4567/product/straw-cream
+  description: Delicious, all-day treat.
+
+- name: Honey Cheese Blanket
+  id: 103
+  price: 75.99
+  path: product/honey-cheese-blanket
+  image: https://www.screencast.com/t/XLkPcdDx5Zw
+  description: Savoury, timeless pick.
+
+- name: Cinnamon Blanket
+  id: 103
+  price: 75.99
+  path: product/cinnamon-blanket
+  image: https://www.screencast.com/t/tZbYd6hp
+  description: Savoury, timeless pick.
